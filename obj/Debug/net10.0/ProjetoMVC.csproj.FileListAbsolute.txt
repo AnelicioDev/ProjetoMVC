@@ -274,6 +274,7 @@ C:\Users\aneli\OneDrive\Documentos\Cursos\C#\Api\ProjetoMVC\obj\Debug\net10.0\re
 C:\Users\aneli\OneDrive\Documentos\Cursos\C#\Api\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.pdb
 C:\Users\aneli\OneDrive\Documentos\Cursos\C#\Api\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.genruntimeconfig.cache
 C:\Users\aneli\OneDrive\Documentos\Cursos\C#\Api\ProjetoMVC\obj\Debug\net10.0\ref\ProjetoMVC.dll
+<<<<<<< HEAD
 C:\Users\aneli\OneDrive\Documentos\Cursos\Back-end\CSharp\ProjetoMVC\bin\Debug\net10.0\BuildHost-net472\Microsoft.Build.Locator.dll
 C:\Users\aneli\OneDrive\Documentos\Cursos\Back-end\CSharp\ProjetoMVC\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe
 C:\Users\aneli\OneDrive\Documentos\Cursos\Back-end\CSharp\ProjetoMVC\bin\Debug\net10.0\BuildHost-net472\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config
@@ -550,3 +551,5 @@ C:\Users\aneli\OneDrive\Documentos\Cursos\Back-end\CSharp\ProjetoMVC\obj\Debug\n
 C:\Users\aneli\OneDrive\Documentos\Cursos\Back-end\CSharp\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.pdb
 C:\Users\aneli\OneDrive\Documentos\Cursos\Back-end\CSharp\ProjetoMVC\obj\Debug\net10.0\ProjetoMVC.genruntimeconfig.cache
 C:\Users\aneli\OneDrive\Documentos\Cursos\Back-end\CSharp\ProjetoMVC\obj\Debug\net10.0\ref\ProjetoMVC.dll
+=======
+>>>>>>> 16467c2b8bc2ad47d2c2935e6d6230e298a86150

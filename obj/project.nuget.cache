@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "43uq9Ywuy7M=",
   "success": true,
   "projectFilePath": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\Back-end\\CSharp\\ProjetoMVC\\ProjetoMVC.csproj",
+=======
+  "dgSpecHash": "AezoNzICUoM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\ProjetoMVC.csproj",
+>>>>>>> 16467c2b8bc2ad47d2c2935e6d6230e298a86150
   "expectedPackageFiles": [
     "C:\\Users\\aneli\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\aneli\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
