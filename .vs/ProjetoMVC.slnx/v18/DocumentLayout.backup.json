@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D774DF2D-247D-36C1-2877-D179849BB466}|ProjetoMVC.csproj|c:\\users\\aneli\\onedrive\\documentos\\cursos\\c#\\api\\projetomvc\\views\\home\\players.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D774DF2D-247D-36C1-2877-D179849BB466}|ProjetoMVC.csproj|solutionrelative:views\\home\\players.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D774DF2D-247D-36C1-2877-D179849BB466}|ProjetoMVC.csproj|c:\\users\\aneli\\onedrive\\documentos\\cursos\\c#\\api\\projetomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D774DF2D-247D-36C1-2877-D179849BB466}|ProjetoMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D774DF2D-247D-36C1-2877-D179849BB466}|ProjetoMVC.csproj|c:\\users\\aneli\\onedrive\\documentos\\cursos\\c#\\api\\projetomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D774DF2D-247D-36C1-2877-D179849BB466}|ProjetoMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D774DF2D-247D-36C1-2877-D179849BB466}|ProjetoMVC.csproj|c:\\users\\aneli\\onedrive\\documentos\\cursos\\c#\\api\\projetomvc\\projetomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D774DF2D-247D-36C1-2877-D179849BB466}|ProjetoMVC.csproj|solutionrelative:projetomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Players.cshtml",
+              "DocumentMoniker": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\Views\\Home\\Players.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Players.cshtml",
+              "ToolTip": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\Views\\Home\\Players.cshtml",
+              "RelativeToolTip": "Views\\Home\\Players.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T13:54:27.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjetoMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\ProjetoMVC.csproj",
+              "RelativeDocumentMoniker": "ProjetoMVC.csproj",
+              "ToolTip": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\ProjetoMVC.csproj",
+              "RelativeToolTip": "ProjetoMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T12:45:57.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T17:36:55.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aneli\\OneDrive\\Documentos\\Cursos\\C#\\Api\\ProjetoMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T17:33:16.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
