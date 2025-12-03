@@ -39,7 +39,6 @@ public class PlayerController : Controller
             return View(player);   
         }
     }
-<<<<<<< HEAD
 
     public IActionResult Editar(int id)
     {
@@ -65,6 +64,4 @@ public class PlayerController : Controller
 
         return RedirectToAction(nameof(Index));
     }
-=======
->>>>>>> 16467c2b8bc2ad47d2c2935e6d6230e298a86150
 }
